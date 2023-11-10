@@ -17,7 +17,7 @@
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView2"
         android:layout_width="214dp"
-        android:layout_height="195dp"
+        android:layout_height="250dp"
         tools:layout_editor_absoluteX="86dp"
         tools:layout_editor_absoluteY="169dp" />
 
